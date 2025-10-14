@@ -1,6 +1,6 @@
 # Event Conversion Scripts
 
-This project contains `.sh` files for converting videos from the `INPUT_DIR` to the specified output directory.
+This project contains `.sh` files and helper scripts for converting videos from the `INPUT_DIR` to the specified output directory.Place this in installed [V2E](https://github.com/SensorsINI/v2e) directory for conversion. 
 
 ## Usage
 
